@@ -1,5 +1,5 @@
-- 👀
-- 💻 Selftaught programmer in training. [FOSS](https://www.fsf.org/about/what-is-free-software) software user and supporter.<br>
+👀
+💻 Selftaught programmer in training. [FOSS](https://www.fsf.org/about/what-is-free-software) software user and supporter.<br>
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   - Full Stack Development with [The Odin Project](https://www.theodinproject.com/about).<br>
   - Python with [100 days of code with Python of Replit](https://replit.com/learn/100-days-of-python).<br>
