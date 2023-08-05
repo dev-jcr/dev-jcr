@@ -1,5 +1,5 @@
 - 👀
-- 💻 Selftaught programmer.
+- 💻 Selftaught programmer. Open Source software enthusiast.
 - 🌱 I’m currently learning with the following resources:
 
   • Full Stack Development with The Odin Project
