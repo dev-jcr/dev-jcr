@@ -8,4 +8,5 @@
   - Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a>.<br>
   - Blender with <a href="https://www.youtube.com/watch?v=nIoXOplUvAw">Blender Guru</a>.<br>
   - InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>
+  - Learning Java by tinkering with my own version of <a href="https://github.com/jocarrojas/blockinger-2">Blockinger, an android tetris clone.</a> 
 
