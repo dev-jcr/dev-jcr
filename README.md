@@ -1,5 +1,5 @@
 👀
-💻 Selftaught programmer in training. <a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br>
+💻 Programmer in training. <a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br>
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   - Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.<br>
   - Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a>.<br>
