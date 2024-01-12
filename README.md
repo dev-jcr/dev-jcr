@@ -9,4 +9,5 @@
   ☐ Blender with <a href="https://www.youtube.com/watch?v=nIoXOplUvAw">Blender Guru</a> (Current level: Donna).<br>
   ☐ InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>.<br>
   ☐ Learning Java by tinkering with my own version of <a href="https://github.com/jocarrojas/blockinger-2">Blockinger, an android tetris clone.</a> (Status: Repo cloned).<br>
-<a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br>
+<br>
+  <k><a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br></k>
