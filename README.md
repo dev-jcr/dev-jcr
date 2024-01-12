@@ -4,7 +4,7 @@
   ☐ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.<br>
   ☑ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).<br>
   ☐ Python with <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python of Replit</a> (Current level: 52).<br>
-  ☐ Basic javascript with <a href="https://www.soyhenry.com/">Henry</a>.<br>
+  ☐ Basic javascript with <a href="https://www.soyhenry.com/">Henry</a> (Status: Module 1).<br>
   ☐ Machine Learning with Python from <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">FreeCodeCamp</a>.<br>
   ☐ Blender with <a href="https://www.youtube.com/watch?v=nIoXOplUvAw">Blender Guru</a> (Current level: Donna).<br>
   ☐ InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>.<br>
