@@ -1,5 +1,5 @@
 👀
-💻 Python developer in permanent learning.
+💻 Junior Developer. Currently studying:
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   ☐ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.<br>
   ☑ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).<br>
