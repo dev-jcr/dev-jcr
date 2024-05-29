@@ -1,6 +1,7 @@
-👀 💻 Computer Science student, developer, systems Technician.
+💻 Computer Science student, developer, systems Technician.
 <br><br>
-📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU.</a><br><br>Other courses ongoing:
+📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU.</a><br><br>
+👀 Other courses ongoing:
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   ☐ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a><br>
   ☐ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.<br>
