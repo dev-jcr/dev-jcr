@@ -1,4 +1,4 @@
-👀 💻 Junior Developer, systems technician.
+👀 💻 Computer Science student, developer, systems Technician.
 <br><br>
 📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU.</a><br><br>Other courses ongoing:
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
