@@ -15,7 +15,7 @@
   --!>
 
   
-  Finished courses:<br><br>
+  🏆 Finished courses:<br><br>
   ☑ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).<br>
   
   <!--
