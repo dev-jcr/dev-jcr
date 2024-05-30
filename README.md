@@ -1,6 +1,12 @@
 💻 Computer Science student, developer, systems Technician.
 <br><br>
-📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU.</a><br><br>
+📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br><br>
+
+![](https://geps.dev/progress/20) ☐ Intro CS<br>
+![](https://geps.dev/progress/0) ☐ Core CS
+![](https://geps.dev/progress/0) ☐ Advanced CS
+![](https://geps.dev/progress/0) ☐ Final project
+<br><br>
 👀 Other courses ongoing:
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   ☐ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a><br>
