@@ -1,13 +1,12 @@
-💻 Computer Science student, developer, systems Technician.
+💻 Computer Science student, software developer.
 <br><br>
-📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br><br>
-
-![](https://geps.dev/progress/20) ☐ Intro CS<br>
-![](https://geps.dev/progress/0) ☐ Core CS
-![](https://geps.dev/progress/0) ☐ Advanced CS
-![](https://geps.dev/progress/0) ☐ Final project
-<br><br>
-👀 Other courses ongoing:
+📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br>
+☐ Intro CS.<br>
+☐ Core CS.<br>
+☐ Advanced CS.<br>
+☐ Final project.<br>
+<!-- Progress bar ![](https://geps.dev/progress/10) --!>
+👀 Other courses ongoing:<br>
   <!-- # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here: --!>
   ☐ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a><br>
   ☐ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.<br>
@@ -21,7 +20,7 @@
   --!>
 
   
-  🏆 Finished courses:<br><br>
+  🏆 Finished courses:<br>
   ☑ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).<br>
   
   <!--
