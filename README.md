@@ -4,12 +4,13 @@
 
 📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Intro CS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="">cs50x</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Core CS.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Advanced CS.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Final project.<br>
 <!-- Progress bar ![](https://geps.dev/progress/10) --!>
  
-👀 Courses doing right now:<br>
+👀 Courses I'm doing right now (clic to go to repository):<br>
   <!--
   # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a>
@@ -17,8 +18,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.
   <br>
   --!>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Python with <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python of Replit</a> (Current level: 53).<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Heavy Duty Camp 2024 (Solana with Rust).<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python of Replit</a> (Current level: 53).
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/heavydutycamp-solana-rust-2024">Heavy Duty Camp - Solana with Rust (2024). </a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/back-end-certificate-meta"> Back-End Certificate with Meta on Coursera.</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/py-data-science-areandina "> Python data science certificate with Área Andina.</a><br><br>
   <!--
   Next ones:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Machine Learning with Python from <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">FreeCodeCamp</a>.
