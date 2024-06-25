@@ -2,7 +2,7 @@
 
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
 
-📚 Currently studying the <a href="https://github.com/jocarrojas/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br>
+📚 Currently studying the <a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Intro CS.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="">cs50x</a> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Core CS.<br>
@@ -20,11 +20,11 @@
   --!>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python of Replit</a> (Current level: 53).
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/heavydutycamp-solana-rust-2024">Heavy Duty Camp - Solana with Rust (2024). </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust">Heavy Duty Camp - Solana with Rust (2024). </a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/back-end-certificate-meta"> Back-End Certificate with Meta on Coursera.</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Back-End Certificate with Meta on Coursera.</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/jocarrojas/py-data-science-areandina "> Python data science certificate with Área Andina.</a><br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate with Área Andina.</a><br><br>
   <!--
   Next ones:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Machine Learning with Python from <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">FreeCodeCamp</a>.
