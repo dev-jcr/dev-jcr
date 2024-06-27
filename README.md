@@ -18,11 +18,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.
   <br>
   --!>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python (Replit, 2024).</a> (Current level: 53).
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python (Replit, 2024).</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 2024).</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Back-End Dev Certificate (Meta).</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Back-End Dev Certificate (Meta, 2024).</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate (Área Andina, 2024)</a><br><br>
   <!--
