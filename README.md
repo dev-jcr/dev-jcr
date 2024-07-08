@@ -1,4 +1,4 @@
-💻 Computer Science, Software Developer student. <br>
+💻 Computer Science (<a href="https://github.com/ossu/computer-science">OSSU</a>), Software Developer student (<a href="https://www.itm.edu.co/aspirante-pregrado/tecnologias/tecnologia-en-diseno-y-programacion-de-soluciones-de-software-como-servicio-saas-virtual/">ITM<a/>). <br>
 
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
 
