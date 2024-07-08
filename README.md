@@ -1,4 +1,4 @@
-💻 Computer Science, software developer student. <br>
+💻 Computer Science, Software Developer student. <br>
 
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
 
