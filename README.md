@@ -1,23 +1,16 @@
-💻 Computer Science (<a href="https://github.com/ossu/computer-science">OSSU</a>) and Software Developer student (<a href="https://www.itm.edu.co/aspirante-pregrado/tecnologias/tecnologia-en-diseno-y-programacion-de-soluciones-de-software-como-servicio-saas-virtual/">ITM<a/>). <br>
+💻 Computer Science (following <a href="https://github.com/ossu/computer-science">OSSU</a>) and Software Developer student (at <a href="https://www.itm.edu.co/aspirante-pregrado/tecnologias/tecnologia-en-diseno-y-programacion-de-soluciones-de-software-como-servicio-saas-virtual/">ITM<a/>). <br>
 
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
-
-📚 Currently studying the <a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming">Computer Science curriculum of OSSU:</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Intro CS.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="">cs50x</a> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Core CS.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Advanced CS.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Final project.<br>
-<!-- Progress bar ![](https://geps.dev/progress/10) --!>
  
-👀 Courses I'm doing right now (clic to go to repository):<br>
+👀 Currently studying (clic to go to repository):<br>
   <!--
-  # I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here:
+  I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.
-  <br>
   --!>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming"> Computer Science with OSSU curriculum</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/software-developer/blob/master/README.md#introduction-to-programming"> Software Developer degree at ITM</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python (Replit, 2024).</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 2024).</a>
@@ -32,7 +25,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>.
   <br>
   --!>
-<br>
   
   🏆 Finished courses:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024).</a>
