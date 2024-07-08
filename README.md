@@ -22,8 +22,6 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 2024).</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024).</a>
-  <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate (Área Andina, 2024)</a><br><br>
   <!--
   Next ones:
@@ -34,10 +32,13 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>.
   <br>
   --!>
-
+<br>
   
   🏆 Finished courses:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024).</a>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).
+  <br>
   
   <!--
   <k><a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br></k>
