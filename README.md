@@ -22,7 +22,7 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 2024).</a>
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Back-End Dev Certificate (Meta, 2024).</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024).</a>
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate (Área Andina, 2024)</a><br><br>
   <!--
