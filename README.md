@@ -9,13 +9,11 @@
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.
   --!>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming"> Computer Science with OSSU curriculum</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/software-developer/blob/master/README.md#introduction-to-programming"> Software Developer degree at ITM</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming"> Computer Science with OSSU curriculum (since 05/2024)</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/software-developer/blob/master/README.md#introduction-to-programming"> Software Developer degree at ITM (since 07/2024)</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python (Replit, 2024).</a>
+
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 2024).</a>
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate (Área Andina, 2024)</a><br><br>
   <!--
   Next ones:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Machine Learning with Python from <a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">FreeCodeCamp</a>.
@@ -25,13 +23,16 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ InkScape with the <a href="https://inkscape.org/learn/tutorials/">oficial tutorial</a>.
   <br>
   --!>
-  
+  <br>
   🏆 Finished courses:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024).</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/py-data-science-areandina "> Python data science certificate (Área Andina, 2024)</a>
+    <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/back-end-certificate-meta"> Intro to Back-End Dev (Meta, 2024)</a>.
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Blockchain Bootcamp with <a href=https://bambulabs.io/>Bambu Labs</a> (Update 11/2023: Finished).
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href=https://bambulabs.io/>Blockchain Bootcamp with Bambu Labs (11/2023)</a>.
   <br>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ <a href="https://github.com/dev-jcr/heavydutybuilders-bootcamp-solana-rust"> Heavy Duty Camp - Solana with Rust (Heavy Duty Builders, 07/2024)</a>.
+  <br>
   <!--
   <k><a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br></k>
   --!>
