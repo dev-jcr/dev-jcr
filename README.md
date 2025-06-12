@@ -10,7 +10,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Full Stack Development with <a href="https://www.theodinproject.com/about">The Odin Project</a>.
   --!>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/computer-science/blob/master/README.md#introduction-to-programming"> Computer Science with OSSU curriculum (since 05/2024)</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜<a href="https://github.com/dev-jcr/software-developer/blob/master/README.md#introduction-to-programming"> Software Developer degree at ITM (since 07/2024)</a><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ <a href="https://replit.com/learn/100-days-of-python">100 days of code with Python (Replit, 2024).</a>
 
   <br>
