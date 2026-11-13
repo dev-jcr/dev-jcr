@@ -2,7 +2,7 @@
 
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
  
-👀 Currently studying (clic to go to repository):<br>
+👀 Currently studying:<br>
   <!--
   I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬜ Foundational C# with Microsoft <a href="https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/">through FreeCodeCamp.</a>
@@ -37,6 +37,3 @@
   <k><a href="https://www.fsf.org/about/what-is-free-software">FOSS software</a> user and supporter.<br></k>
   --!>
  <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-jcr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-jcr&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<hr>
