@@ -1,7 +1,7 @@
 💻 Computer Science (with <a href="https://github.com/ossu/computer-science">OSSU</a>) and Software Developer student (at <a href="https://talentotech2.com.co/">TalentoTech<a/>).<br>
-
+ <!--
 ▶️ Check my <a href="https://www.youtube.com/@JonathanCardonaRojas/playlists"> YouTube channel</a> to follow my progress and streamed work.<br>
- 
+ --!>
 👀 Currently studying:<br>
   <!--
   I screenrecord my sessions and upload them to PeerTube and Youtube. Check my progress in the courses on which I'm enrolled here:
